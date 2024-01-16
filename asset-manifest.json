@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.363d8b1b.css",
-    "main.js": "./static/js/main.a8167fcc.js",
+    "main.js": "./static/js/main.8f442b21.js",
     "static/css/64.bba8fa55.chunk.css": "./static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "./static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "./static/css/769.b3cbb36b.chunk.css",
@@ -19,14 +19,12 @@
     "static/media/undraw_House_searching_re_stk8.png": "./static/media/undraw_House_searching_re_stk8.6f6123d950a494cf0706.png",
     "static/media/contactMailDark.svg": "./static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "./static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/undraw_Data_report_re_p4so.png": "./static/media/undraw_Data_report_re_p4so.6b818f839c65b9c7e109.png",
     "static/media/Africa_University.jpg": "./static/media/Africa_University.77f5bc7efa67e20acb24.jpg",
-    "static/media/Daco_4533338.png": "./static/media/Daco_4533338.f9cb89624b7fc40eb728.png",
     "static/media/skill.svg": "./static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "./index.html",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.363d8b1b.css.map": "./static/css/main.363d8b1b.css.map",
-    "main.a8167fcc.js.map": "./static/js/main.a8167fcc.js.map",
+    "main.8f442b21.js.map": "./static/js/main.8f442b21.js.map",
     "64.bba8fa55.chunk.css.map": "./static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "./static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "./static/css/769.b3cbb36b.chunk.css.map",
@@ -34,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.363d8b1b.css",
-    "static/js/main.a8167fcc.js"
+    "static/js/main.8f442b21.js"
   ]
 }
